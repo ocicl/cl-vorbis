@@ -1,0 +1,10 @@
+* cl-vorbis
+
+OGG/Vorbis decoding using stb_vorbis.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shirakumo/cl-vorbis.git   |
+| commit  | c5835cd  |
+| systems | cl-vorbis |
+|---------+-------------------------------------------|
+
