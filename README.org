@@ -4,6 +4,6 @@ OGG/Vorbis decoding using stb_vorbis.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/shirakumo/cl-vorbis.git |
-| commit  | f61436b                                        |
+| commit  | f907a5e                                        |
 | systems | cl-vorbis                                      |
 |---------+------------------------------------------------|
