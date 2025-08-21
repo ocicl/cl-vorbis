@@ -3,7 +3,7 @@
 OGG/Vorbis decoding using stb_vorbis.
 
 |---------+------------------------------------------------|
-| source  | git:https://github.com/shirakumo/cl-vorbis.git |
+| source  | git:https://codeberg.org/shirakumo/cl-vorbis.git |
 | commit  | f907a5e                                        |
 | systems | cl-vorbis                                      |
 |---------+------------------------------------------------|
